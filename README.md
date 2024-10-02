@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computing..
 - 🌱 I’m currently learning BS.c in computer science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through X and 3.    Manuela Arcuri
+- 📫 How to reach me through X and sesdev.achary@gmail.com
 
 
 - 😄 Pronouns: ...
