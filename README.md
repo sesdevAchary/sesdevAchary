@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 ### Here are my React Projects ....
 - [Basic React project of Books ](https://github.com/sesdevAchary/react-Project-level-1)
 - [ Axios App Project]( https://github.com/sesdevAchary/React-Project-level-1/tree/main/axios-app)
-- -[Basic React project for Lyrics FInder] (https://github.com/sesdevAchary/React-Project-level-1/tree/main/lyrics-finder)
+- [Basic React project for Lyrics FInder] (https://github.com/sesdevAchary/React-Project-level-1/tree/main/lyrics-finder)
 
