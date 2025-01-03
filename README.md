@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
 - [ React project for Lyrics FInder](https://github.com/sesdevAchary/React-Project-level-1/tree/main/lyrics-finder)
 - [React project for Movie Search Engine](https://github.com/sesdevAchary/React-Project-level-1/tree/main/movie-app)
 - [React project for password Verification](https://github.com/sesdevAchary/React-Project-level-1/tree/main/password-verification)
+- [React project for Word-letter-counter](https://github.com/sesdevAchary/React-Project-level-1/tree/main/word-letter-counter
 
